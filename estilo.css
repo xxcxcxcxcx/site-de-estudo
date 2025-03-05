@@ -1,0 +1,33 @@
+
+        h1 {color: rgb(10, 10, 10); font-size: 50px;}
+        p{background-color: rgb(99, 97, 100);}
+        .supertitulo{font-size: 60px;}
+        #titulosecundario{font-size: 60px;color: rgb(12, 11, 11);}
+        .minhalista li {color:gold;}
+        body {
+                background-image: url(mario6.png) ;
+                background-repeat: no-repeat;
+                /*deixa a imagem parada background-attachment: fixed; */              
+                background-position-x: center;
+        
+                
+        }
+             .supertitulo {
+                margin: 20px;
+                border: 1px solid black;
+                padding: 10px;
+                width: fit-content;
+                background-color: rgb(34, 160, 133);
+                margin-top: 100px;
+
+
+                
+             }
+
+                
+
+
+    
+                
+        
+       
